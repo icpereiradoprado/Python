@@ -1,6 +1,3 @@
-from tkinter import Y
-
-
 class Operacao:
     #construtor e atributos
     def __init__(self, x,y):
